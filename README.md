@@ -7,19 +7,20 @@
   
 <!-- **Authors:** -->
 
-**_<sup>1*</sup> [Sanjoy Chowdhury](https://schowdhury671.github.io/), <sup>2*</sup> [Sayan Nag](https://sayannag.github.io/), <sup>3*</sup> [Subhrajyoti Dasgupta](https://subhrajyotidasgupta.github.io/), <sup>4</sup>[Jun Chen](https://junchen14.github.io/),_**
+<div align="center">
+  
+<b>_<sup>1*</sup> [Sanjoy Chowdhury](https://schowdhury671.github.io/), <sup>2*</sup> [Sayan Nag](https://sayannag.github.io/), <sup>3*</sup> [Subhrajyoti Dasgupta](https://subhrajyotidasgupta.github.io/), <sup>4</sup>[Jun Chen](https://junchen14.github.io/),_</b>
 
-**_<sup>4</sup>[Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), <sup>1</sup>[Ruohan Gao](https://ruohangao.github.io/), <sup>1</sup>[Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha/)_**
-
+**_<sup>4</sup> [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), <sup>1</sup> [Ruohan Gao](https://ruohangao.github.io/), <sup>1</sup> [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha/)_**
 
 <!-- **Affiliations:** -->
 
 _<sup>1</sup> University of Maryland, <sup>2</sup> University of Toronto, <sup>3</sup> Mila and Université de Montréal, <sup>4</sup> KAUST_
-
+</div>
 
 Meerkat is an audio-visual LLM equipped with a fine-grained understanding of image 🖼️ and audio 🎵 both spatially 🪐 and temporally 🕒.
 
-#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code](#usage)    
+#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code]([#usage](https://github.com/schowdhury671/meerkat/edit/main/README.md#-paper----card_file_box--dataset-----project-page----bricks-code))    
 
 ## Table of Contents 📚
 
@@ -31,7 +32,7 @@ Meerkat is an audio-visual LLM equipped with a fine-grained understanding of ima
 
 ## Model Architecture 💡
 <div align="center">
-  <img src="assets/arch.png" alt="Model Architecture" width="80%">
+  <img src="assets/arch.png" alt="Model Architecture" width="110%">
 </div>
 
 
@@ -99,7 +100,7 @@ cd ..
 
 ## Results 📉
 <div align="center">
-  <img src="assets/qualitative_results.png" alt="Results" width="96%">
+  <img src="assets/qualitative_results.png" alt="Results" width="110%">
 </div>
 
 
