@@ -20,7 +20,7 @@ _<sup>1</sup> University of Maryland, <sup>2</sup> University of Toronto, <sup>3
 
 Meerkat is an audio-visual LLM equipped with a fine-grained understanding of image 🖼️ and audio 🎵 both spatially 🪐 and temporally 🕒.
 
-#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code]([#usage](https://github.com/schowdhury671/meerkat/edit/main/README.md#-paper----card_file_box--dataset-----project-page----bricks-code))    
+#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code](https://github.com/schowdhury671/meerkat/tree/main)    
 
 ## Table of Contents 📚
 
