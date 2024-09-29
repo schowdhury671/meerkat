@@ -42,10 +42,10 @@ To install Meerkat, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/lyuchenyang/Macaw-LLM.git
+git clone https://github.com/schowdhury671/meerkat.git
 
 # Change to the Macaw-LLM directory
-cd Macaw-LLM
+cd meerkat
 
 # Install required packages
 pip install -r requirements.txt
