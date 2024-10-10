@@ -106,10 +106,7 @@ cd ..
 
 ## Acknowledgements 🙏
 
-We would like to express our gratitude to the following open-source projects for their valuable contributions to Meerkat:
-
-- [Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) for providing a building block for this project.
-
+We would like to express our gratitude to the [Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) and [GOT](https://github.com/LiqunChen0606/Graph-Optimal-Transport) repositories for their valuable contributions to Meerkat.
 
 ## Citation
 
