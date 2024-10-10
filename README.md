@@ -111,10 +111,10 @@ We would like to express our gratitude to the [Macaw-LLM](https://github.com/lyu
 ## Citation
 
 ```bibtex
-@article{chowdhury2024meerkat,
+@inproceedings{chowdhury2024meerkat,
       title={Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time},
       author={Chowdhury, Sanjoy and Nag, Sayan and Dasgupta, Subhrajyoti and Chen, Jun and Elhoseiny, Mohamed and Gao, Ruohan and Manocha, Dinesh},
-      journal={ECCV},
+      journal={European Conference on Computer Vision (ECCV)},
       year={2024}
 }
 ```
