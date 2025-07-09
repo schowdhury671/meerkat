@@ -20,7 +20,7 @@ _<sup>1</sup> University of Maryland, <sup>2</sup> University of Toronto, <sup>3
 
 Meerkat is an audio-visual LLM equipped with a fine-grained understanding of image 🖼️ and audio 🎵, both spatially 🪐 and temporally 🕒.
 
-#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code](https://github.com/schowdhury671/meerkat/tree/main)    
+#### 📰 <a href="https://arxiv.org/abs/2407.01851" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Paper</a>    :card_file_box:  <a href="[https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=bARrBP](https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=BWoPx1)" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dataset</a>   🌐  <a href="https://schowdhury671.github.io/meerkat_project/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Project Page</a>    :bricks: [Code](https://github.com/schowdhury671/meerkat/tree/main)    
 
 ## Table of Contents 📚
 
@@ -63,7 +63,7 @@ cd ..
 ## Usage 🚀
 
 1. **Downloading dataset:** 
-   - Please download the dataset JSONs from here: [Sharepoint Link](https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2FAVFIT%20dataset&ga=1)
+   - Please download the dataset JSONs from here: [Sharepoint Link]([https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2FAVFIT%20dataset&ga=1](https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Esxw8RUgg5tNuBWwHEB3jrUBINIl3clrKRRc6n-TErWYEQ?e=BWoPx1))
 
 
 2. **Dataset preprocessing:** 
